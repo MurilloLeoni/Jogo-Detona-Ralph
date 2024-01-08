@@ -1,5 +1,5 @@
 # Jogo-Detona-Ralph
-Jogo criado com JavaScript, com auxílio do bootcamp ifood através da plataforma DIO
+Meu primeiro jogo criado com auxílio do bootcamp ifood através da plataforma DIO
 
 ### Tecnologias Utilizadas
 - HTML5
