@@ -2,9 +2,9 @@
 Jogo criado com JavaScript, com auxílio do bootcamp ifood através da plataforma DIO
 
 ### Tecnologias Utilizadas
--HTML5
--CSS3
--JAVASCRIPT
+- HTML5
+- CSS3
+- JAVASCRIPT
 
 ### Como Jogar
 1. Clone este repositório para sua máquina local.
